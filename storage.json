@@ -5,11 +5,11 @@
     "functions": [],
     "variables": {},
     "resources": [{
-        "name": "storageaccount18790",
+        "name": "leelastorageacc1567",
         "type": "Microsoft.Storage/storageAccounts",
         "apiVersion": "2019-06-01",
         "tags": {
-            "displayName": "storageaccount18790"
+            "displayName": "leelastorageacc1567"
         },
         "location": "[resourceGroup().location]",
         "kind": "StorageV2",
