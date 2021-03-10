@@ -14,7 +14,7 @@ steps:
   inputs:
     SourceFolder: 'storage.json'
     Contents: '**'
-    TargetFolder: '$(build.artifactstagingdirectory)''
+    TargetFolder: '$(build.artifactstagingdirectory)'
   
 - task: PublishBuildArtifacts@1
   inputs:
